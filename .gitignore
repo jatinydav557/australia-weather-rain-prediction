@@ -1,0 +1,4 @@
+venv
+artifacts
+australia_weather_rain_prediction.egg-info
+logs
