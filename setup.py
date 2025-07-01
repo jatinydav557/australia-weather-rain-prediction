@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="australia-weather-rain-prediction",
     version="0.1",
-    author="Sudhanshu",
+    author="Jatin",
     packages=find_packages(),
     install_requires = requirements,
 )
