@@ -1,7 +1,4 @@
-Got it\! This sounds like a solid MLOps project for predicting rain in Australia, with deployment to GKE and CI/CD via CircleCI.
-
-Here's a `README.md` file, structured similarly to your previous examples, incorporating the details you provided and the code snippets:
-
+🔗 👉 **[Watch the Demo on YouTube](https://www.youtube.com/watch?v=hWjNqbbSA5U&list=PLe-YIIlt-fbOSpBoaPA6TyB3S25WSf5sL&index=2&ab_channel=Jatin)**
 ```markdown
 # 🇦🇺 Australia Rain Prediction: An End-to-End MLOps Pipeline
 
@@ -191,7 +188,7 @@ Developing this end-to-end MLOps pipeline presented several interesting challeng
 
 ## 🤝 Credits
 
-* [Your Name/Organization Here]
+* [Jatin Yadav]
 * [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 * [Scikit-learn](https://scikit-learn.org/stable/)
 * [Docker](https://www.docker.com/)
@@ -203,11 +200,13 @@ Developing this end-to-end MLOps pipeline presented several interesting challeng
 
 ---
 
-## 🙋‍♂️ Let's Connect
-
-* **💼 LinkedIn:** [Your LinkedIn Profile URL]
-* **📦 GitHub:** [Your GitHub Profile URL]
-* **📬 Email:** your@email.com
-
 Made with ❤️ by an AI enthusiast who transforms ML, NLP, DL, GenAI, and MLOps concepts into practical, impactful solutions.
 ```
+
+## 🙋‍♂️ Let's Connect
+
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [`+91-7340386035`](tel:+917340386035)
+* **🎥 YouTube:** [Checkout my other working projects](https://www.youtube.com/@jatinML/playlists)
